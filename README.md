@@ -16,7 +16,7 @@
 🔹 **Programming**: Python, SQL, PHP, JavaScript  
 🔹 **Web Technologies**: HTML, CSS, Node.js  
 🔹 **Networking**: Wireshark, Cisco Packet Tracer  
-🔹 **Design**: Adobe Photoshop, Illustrator  
+🔹 **Design**: Adobe Photoshop, Illustrator, Canva  
 
 ## 📫 Connect with Me  
 - **LinkedIn**: [linkedin.com/in/nhdipto](https://www.linkedin.com/in/nhdipto)  
