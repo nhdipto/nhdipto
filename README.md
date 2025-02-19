@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hey, I'm Nahian Hoque Dipto!  
+🎓 **Computer Science & Engineering Graduate | BRAC University (2024)**  
+👨‍💻 Passionate about **Web Development, AI, Cybersecurity, and Networking**  
+📍 Based in Bangladesh  
 
-<!--
-**nhdipto/nhdipto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔥 About Me  
+- 💡 I love solving problems and building applications.  
+- 🚀 Currently working on **AI-driven applications & Web Projects**.  
+- 🛠️ Skilled in **Python, SQL, Linux, MySQL, Machine Learning, and Networking**.  
 
-Here are some ideas to get you started:
+## 🌐 My Projects  
+🔹 **E-commerce Website** – A responsive & dynamic e-commerce platform with **cart checkout & admin dashboard**. [🔗 View Repo]()  
+🔹 **Portfolio Website** – A personal **portfolio showcasing my projects & skills**. [🔗 View Repo]()  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📜 Technical Skills  
+🔹 **Programming**: Python, SQL, PHP, JavaScript  
+🔹 **Web Technologies**: HTML, CSS, Node.js  
+🔹 **Networking**: Wireshark, Cisco Packet Tracer  
+🔹 **Design**: Adobe Photoshop, Illustrator  
+
+## 📫 Connect with Me  
+- **LinkedIn**: [linkedin.com/in/nhdipto](https://www.linkedin.com/in/nhdipto)  
+- **Email**: haque.nahian1@gmail.com  
