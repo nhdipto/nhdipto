@@ -9,8 +9,8 @@
 - 🛠️ Skilled in **Python, SQL, Linux, MySQL, Machine Learning, and Networking**.  
 
 ## 🌐 My Projects  
-🔹 **E-commerce Website** – A responsive & dynamic e-commerce platform with **cart checkout & admin dashboard**. [🔗 View Repo]()  
-🔹 **Portfolio Website** – A personal **portfolio showcasing my projects & skills**. [🔗 View Repo]()  
+🔹 **E-commerce Website** – A responsive & dynamic e-commerce platform with **cart checkout & admin dashboard**.  
+🔹 **Portfolio Website** – A personal **portfolio showcasing my projects & skills**. 
 
 ## 📜 Technical Skills  
 🔹 **Programming**: Python, SQL, PHP, JavaScript  
